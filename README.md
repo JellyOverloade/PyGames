@@ -4,11 +4,9 @@ Place blocks, delete blocks, move around, and build anything you want.
 
 Made by Adrian.
 
-🖼️ Project Icon
-(Insert your pixel icon here)
 
-Code
-![Icon](your-icon-file.png)
+
+
 🎮 Features
 🧱 Place and remove blocks
 
@@ -44,14 +42,11 @@ The selected slot has a white outline.
 📸 Screenshots
 (You can add these later)
 
-Code
-![Screenshot 1](screenshots/screen1.png)
-![Screenshot 2](screenshots/screen2.png)
+
 🧩 How It Works
 The world is a 2D grid stored in a Python list:
 
-Code
-world[y][x] = block_id
+
 Block IDs:
 
 0 = empty
@@ -76,8 +71,8 @@ Download from: https://python.org
 Code
 pip install pygame
 3. Run the game
-Code
-python main.py
+
+pygamesandbox.py
 💾 Saving & Loading
 Press S to save your world to world.json.
 Press L to load it again.
