@@ -72,16 +72,16 @@ Code
 pip install pygame
 3. Run the game
 
-pygamesandbox.py
+sandbox.py
 💾 Saving & Loading
 Press S to save your world to world.json.
 Press L to load it again.
 
 📁 Folder Structure
 Code
-pygame-sandbox/
+pygame sandbox/
 │
-├── main.py
+├── sandbox.py
 ├── world.json
 ├── README.md
 ├── your-icon-file.png
